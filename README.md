@@ -1,6 +1,6 @@
 ## Template for the Camunda 8 for Developers Training with Spring (No Maven)
 
-This is your starting point for the Camunda 8 for developers training, if you choose to use the Camunda Spring Client
+This is your starting point for the Camunda 8 for Developers training, if you choose to use the Camunda Spring Client
 and want or need to work without Maven.
 
 ## Prerequisites
